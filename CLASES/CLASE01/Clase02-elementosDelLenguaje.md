@@ -105,3 +105,9 @@ Vamos a definir los elementos que controlan el flujo de la ejecución de un prog
 Para controlar el flujo secuencial de un programa, tenemos, para emrezar dos instrucciones:
  - FOR (ejecuta código en un ciclo)
  - IF (determina la condicionalidad de una propuesta)
+
+
+### 7.- Actividades propuestas 8 pts.
+- Escribir un programa en python que calcule e imprima en pantalla la superficie de un triángulo en función de la base y la altura (S = 1/2 Base × Altura). Los valores son introducidos por el usr.
+
+- Calcular y visualizar la longitud de la circunferencia y el área de un círculo de radio dado.
